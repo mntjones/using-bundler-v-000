@@ -1,4 +1,4 @@
-require_relative "../config/environmnet"
+require_relative '../config/environment'
 
 Hashie
 Sinatra
